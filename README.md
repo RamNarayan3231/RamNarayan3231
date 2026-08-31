@@ -46,7 +46,7 @@ Welcome to my project repository portfolio! Here you'll find custom AI/ML implem
 
 ---
 
-### 💬 5. [Message Intelligence System]([https://msgiq-l2.streamlit.app/]) (`msgiq`)  
+### 💬 5. Message Intelligence System (`msgiq`) [Live Demo]([url](https://msgiq-l2.streamlit.app/)) 
 - **Description:** End-to-end NLP processing and task automation engine.
 - **Tech Stack:** Python, Scikit-learn, Hugging Face, Streamlit, Regex.
 - **Key Features:**

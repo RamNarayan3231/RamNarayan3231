@@ -46,7 +46,7 @@ Welcome to my project repository portfolio! Here you'll find custom AI/ML implem
 
 ---
 
-### 💬 5. Message Intelligence System (`msgiq`) [Live Demo]([url](https://msgiq-l2.streamlit.app/)) 
+### 💬 5. Message Intelligence System (`msgiq`) [Live Demo](https://msgiq-l2.streamlit.app/) 
 - **Description:** End-to-end NLP processing and task automation engine.
 - **Tech Stack:** Python, Scikit-learn, Hugging Face, Streamlit, Regex.
 - **Key Features:**
@@ -80,5 +80,7 @@ Welcome to my project repository portfolio! Here you'll find custom AI/ML implem
 ## 📫 Connect & Contact
 
 - **Name:** Ram Narayan Jaiswal
+- **Mob:** 9565777968
+- **Email:** liveramnarayan9565@gmail.com
 - **LinkedIn:** [linkedin.com/in/ram-narayan-jaiswal-860250254](https://www.linkedin.com/in/ram-narayan-jaiswal-860250254)
 - **GitHub:** [github.com/RamNarayan3231](https://github.com/RamNarayan3231)

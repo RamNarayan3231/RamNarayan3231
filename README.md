@@ -2,7 +2,7 @@
 
 Welcome to my project repository portfolio! Here you'll find custom AI/ML implementations, Computer Vision solutions, NLP classification engines, and Retrieval-Augmented Generation (RAG) systems.
 
----
+--- 
 
 ## 📌 Featured Projects
 

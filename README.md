@@ -69,7 +69,7 @@ Welcome to my project repository portfolio! Here you'll find custom AI/ML implem
 
 | Category | Technologies & Tools |
 |---|---|
-| **Languages** | Python, C++, SQL, Bash |
+| **Languages** | Python, C++, SQL, DSA |
 | **Frameworks & Libraries** | PyTorch, TensorFlow, Scikit-Learn, OpenCV, Pandas, NumPy |
 | **NLP & LLM** | Hugging Face Transformers, BERT, LangChain, RAG, NLTK, spaCy |
 | **Computer Vision** | YOLO, ResNet, DenseNet, Image Processing |
